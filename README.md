@@ -3,7 +3,7 @@ Script untuk Membuat Akun ssh Di termux
 
 # INSTALL
 ```php
-$ apt update && pkg upgrade
+$ apt update && apt upgrade
 $ apt install python
 $ apt install git
 $ git clone https://github.com/herocan-7/tmuxspeedssh
