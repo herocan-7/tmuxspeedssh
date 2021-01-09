@@ -9,7 +9,7 @@ $ apt install git
 $ git clone https://github.com/herocan-7/tmuxspeedssh
 $ cd tmuxspeedssh
 $ python -m pip install -r requirements.txt
-$ python speed ssh
+$ python speedssh.py
 ```
 # THANKS TO FOR YOU SOURCE CODE
 ```
